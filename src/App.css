@@ -1,27 +1,6 @@
-body{
-    margin: 0;
+.w3-col img{
+    width: 100%;
 }
-.title{
-    color: white;
-    text-align: center;
-}
-.header{
-    background-color: coral;
-    padding: 25px;
-}
-.content{
-    background-color: darkblue;
-    padding: 30px;
-    display: flex;
-    justify-content: center;
-    gap: 15px;
-}
-.footer{
-    background-color: darkred;
-    padding: 25px;
-}
-.card{
-    width: 350px;
-    padding: 15px;
-    background-color: gray;
+.w3-padding-16 img {
+    width: 50px;
 }
