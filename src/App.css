@@ -1,6 +1,18 @@
-.w3-col img{
-    width: 100%;
+.content{
+    text-align: center;
+    margin-top: 50px;
 }
-.w3-padding-16 img {
-    width: 50px;
+button{
+    background-color: black;
+    border: none;
+    height: 35px;
+    min-width: 70px;
+    color: white;
+    border-radius: 10px;
+    margin: 0 5px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #575757;
 }
